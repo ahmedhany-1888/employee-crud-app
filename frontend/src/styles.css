@@ -1,0 +1,20 @@
+body {
+  background-color: #f9f9f9;
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif;
+}
+
+app-root {
+  display: block;
+  padding: 24px;
+}
+
+mat-card {
+  margin: 16px auto;
+  padding: 16px;
+  max-width: 900px;
+}
+
+button + button {
+  margin-left: 8px;
+}

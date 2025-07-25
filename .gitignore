@@ -1,0 +1,15 @@
+# .gitignore
+
+# Node (Angular)
+frontend/node_modules/
+frontend/dist/
+
+# .NET
+backend/bin/
+backend/obj/
+*.user
+*.vs/
+
+# Others
+.DS_Store
+.env

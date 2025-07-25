@@ -1,0 +1,27 @@
+.employeesCSS{
+  margin: 0 auto 24px auto;
+  padding: 30px;
+}
+
+
+.list-card {
+  margin: 0 auto 24px auto;
+  padding: 16px;
+  max-width: 900px;
+}
+
+.filter {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+
+table tr.mat-row:hover {
+  background: rgba(0, 0, 0, 0.04);
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 16px;
+}
