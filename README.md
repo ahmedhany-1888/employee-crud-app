@@ -44,5 +44,5 @@ This is a full-stack web application that demonstrates **CRUD (Create, Read, Upd
    dotnet restore
    dotnet run
 2. cd frontend
-   ng serve
-   dotnet run
+   npm install
+   ng serve --open
